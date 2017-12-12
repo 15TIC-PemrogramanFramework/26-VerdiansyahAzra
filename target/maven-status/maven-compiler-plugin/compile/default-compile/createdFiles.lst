@@ -1,0 +1,9 @@
+com\kuis1083\Kuis1083\controller\cv_1083controller.class
+com\kuis1083\Kuis1083\service\cv_1083service.class
+com\kuis1083\Kuis1083\service\nilai_1083service.class
+com\kuis1083\Kuis1083\Kuis1083Application.class
+com\kuis1083\Kuis1083\controller\nilai_1083controller.class
+com\kuis1083\Kuis1083\repo\nilai_1083repo.class
+com\kuis1083\Kuis1083\entity\cv_1083.class
+com\kuis1083\Kuis1083\repo\cv_1083repo.class
+com\kuis1083\Kuis1083\entity\nilai_1083.class
